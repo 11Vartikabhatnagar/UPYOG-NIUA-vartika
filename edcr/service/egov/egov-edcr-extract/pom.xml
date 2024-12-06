@@ -196,7 +196,7 @@
 		<dependency>
 			<groupId>ar.com.fdvs</groupId>
 			<artifactId>DynamicJasper</artifactId>
-			<version>5.0.2</version>
+			<version>5.3.9</version>
 			<exclusions>
 				<exclusion>
 					<artifactId>jasperreports</artifactId>
